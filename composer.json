@@ -2,7 +2,8 @@
     "name": "Franccysco/projeto_slim",
     "authors": [
         {
-            "name": "Francisco Sousa"            
+            "name": "Francisco Sousa",
+            "email": "fchagas.sousa45@gmail.com"            
         }
     ],
     "require": {
